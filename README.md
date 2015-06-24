@@ -3,4 +3,4 @@
 
 전체 파일 용량은 3GB에 달합니다.
 
-C++언어로 작성된 소스코드만 다운로드 받기 원하신다면 https://github.com/shoveller/YCCSample 을 방문하십시오.
+C++언어로 작성된 소스코드만 다운로드 받기 원하신다면 https://github.com/shoveller/YCCSample_srcOnly 을 방문하십시오.
